@@ -1,5 +1,5 @@
-# Solo 
+This is the source code for the website of the `wscontest` tool on Wikimedia Tool Labs.
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+# Credits
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+This page is based on the [Solo](http://chibicode.github.io/solo) theme by [Shu Ues gi (aka chibicode)](https://github.com/chibicode).
