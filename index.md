@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Tools for the Wikisouce's Anniversary Proofreading Contest
+## Tools for the Wikisouce Anniversary Proofreading Contest
 
 `wscontest` is a collection of tools for running the Wikisouce’s Anniversary Proofreading Contest in your local Wikisource (Wikisource Anniversary Proofreading Contest, WAPC).
 
@@ -14,10 +14,14 @@ At the end of the contest, a prize is awarded to the Wikisourcian with the most 
 ## Tools
 
 `wscontest` consists of three main parts:
-* the `votecounter` scripts, to count the points for each contestant;
-* the `ranking` script, to designate the winner (who has the most points) and to draw the second and third-place winners;
+* the `votecounter` scripts, to count the points for each contestant - see [documentation](man_votecounter.html);
+* the `ranking` script, to designate the winner (who has the most points) and to draw the second and third-place winners - see [documentation](man_ranking.html);
 * this website ([wscontest/website](https://github.com/wscontest/website));
 
 ## Documentation
 
-You can read more on [meta](https://meta.wikimedia.org/wiki/Wikisource_anniversary_proofreading_contest).
+You can read more about the Wikisouce Anniversary Proofreading Contest on [meta](https://meta.wikimedia.org/wiki/Wikisource_anniversary_proofreading_contest).
+
+For the tools:
+* man for [votecounter](man_votecounter.html);
+* man for [ranking](man_ranking.html);
